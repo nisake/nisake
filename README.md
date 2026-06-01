@@ -12,13 +12,15 @@ Building games, apps, and AI tools — often with Claude as my daily co-pilot.
 
 ## 🛡️ AI Tools
 
-- **[shield-scanner](https://github.com/nisake/shield-scanner)** — A scanner that detects prompt injection threats in files *before* they're handed to AI agents. Covers invisible Unicode, control characters, suspicious patterns, and homoglyph attacks.
-- **MCP servers (personal)** — I build Model Context Protocol servers for my own workflows (game dev, file management, research, and more). Some may go public in the future.
+- **Shield Scanner** — A little tool that checks files for sketchy hidden stuff before they get handed to an AI. Comes in two flavors:
+  - [Web version](https://nisake.github.io/shield-scanner/) ([repo](https://github.com/nisake/shield-scanner)) — try it right in your browser
+  - [MCP version](https://github.com/nisake/shield-scanner-mcp) — my first public MCP server 🎉
+- **Other MCP servers (personal)** — I build Model Context Protocol servers for my own workflows (game dev, file management, research, and more)
 
 ## 🔧 What I'm into
 
 - Claude & the MCP ecosystem
-- AI safety at the practical layer (prompt injection defense, agent hardening)
+- AI safety stuff — prompt injection and keeping AI agents out of trouble (something I've been getting curious about lately)
 - Indie game design — especially experiments with AI-integrated gameplay
 - Currently applying to a few game and art/tech events & competitions
 
