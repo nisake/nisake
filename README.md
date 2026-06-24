@@ -24,6 +24,13 @@ Building games, apps, and AI tools — often with Claude as my daily co-pilot.
 - Indie game design — especially experiments with AI-integrated gameplay
 - Currently applying to a few game and art/tech events & competitions
 
+## 💗 Support
+
+If anything here saved you time or made you smile, feel free to leave a tip — totally optional, makes my day either way 💡
+
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-♡-EA4AAA?logo=github&style=for-the-badge)](https://github.com/sponsors/nisake)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://buymeacoffee.com/nisake)
+
 ## 📫 Contact
 
 `nisakegame@gmail.com`
